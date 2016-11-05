@@ -1,1 +1,1 @@
-# [ML projects {sklearn, Keras, etc...] (#pull)
+# [ML projects {Scikit-Learn, Keras, etc...}] (#pull)
